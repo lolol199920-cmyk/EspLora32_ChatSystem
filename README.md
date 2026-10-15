@@ -6,3 +6,6 @@ For this to work you need these 4 public avalible files:
 "sx126x.py"
 "_sx126x.py"
 
+I Used the Firmware: "ESP32_GENERIC_S3-20260824-v1.29.0" avalible on the offical micropython Website.
+
+*The Code was created using the help of AI*
